@@ -1,0 +1,7 @@
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\bin\Debug\MakingWavesTaskSolution.exe.config
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\bin\Debug\MakingWavesTaskSolution.exe
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\bin\Debug\MakingWavesTaskSolution.pdb
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\obj\Debug\MakingWavesTaskSolution.csprojResolveAssemblyReference.cache
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\obj\Debug\MakingWavesTaskSolution.csproj.CoreCompileInputs.cache
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\obj\Debug\MakingWavesTaskSolution.exe
+C:\Users\sebmi\OneDrive\Programowanie\Csharp\MakingWaves\MakingWavesTaskSolution\MakingWavesTaskSolution\obj\Debug\MakingWavesTaskSolution.pdb
