@@ -10,7 +10,7 @@ namespace MakingWavesTaskSolution
             DateTime date1, date2;
 
             //Checking if the arguments have been entered, validation of arguments and catching the FormatException exception 
-            if (args.Length == 0)
+            if (args.Length == 0 || args.Length == 1)
             {
                 Console.WriteLine("|||||||||->!NO ARGUMENTS ON INPUT!<-||||||||||\n" +
                                   "|****Run program with two date arguments.****|\n" +
